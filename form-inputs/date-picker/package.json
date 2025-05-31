@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
-    "@kdnk.dev/forms": "latest",
+    "@kdnk.dev/forms": "workspace:*",
     "@radix-ui/react-label": "^2.1.0",
     "@radix-ui/react-popover": "^1.1.2",
     "@radix-ui/react-select": "^2.1.2",
