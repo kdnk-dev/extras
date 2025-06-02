@@ -109,7 +109,7 @@ export const KdDatePickerField = (props: KdDatePickerProps) => {
             onSelect={handleDayPickerSelect}
             month={month}
             onMonthChange={setMonth}
-            captionLayout="dropdown-buttons"
+            captionLayout="dropdown-months"
             fromYear={new Date().getFullYear() - 19}
             toYear={new Date().getFullYear()}
             disabled={isDisabled}
